@@ -14,6 +14,7 @@ public class dpkite
 	      new Object[] { "XA0634", "Sarika699!", "691991"}
 	      new Object[] { "XA0453", "1765343", "111111"},
 	      new Object[] { "XA0211", "1765343", "10211111"},
+	      new Object[] { "XA0238", "1762243", "1020987"},
 	    };
 	 }
 }
